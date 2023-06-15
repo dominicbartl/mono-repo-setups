@@ -1,0 +1,1 @@
+exports.hello = require('lib-b').hello;

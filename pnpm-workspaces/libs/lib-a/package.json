@@ -1,0 +1,7 @@
+{
+  "name": "lib-a",
+  "main": "index.js",
+  "dependencies": {
+    "lib-b": "workspace:*"
+  }
+}
