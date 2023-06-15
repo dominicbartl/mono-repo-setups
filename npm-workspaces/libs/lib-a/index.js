@@ -1,1 +1,1 @@
-exports = require('lib-b');
+exports.hello = require('lib-b').hello;

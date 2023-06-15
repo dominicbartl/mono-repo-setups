@@ -1,3 +1,3 @@
-exports = function (message) {
+exports.hello = function (message) {
     return 'Hello ' + message;
 }
